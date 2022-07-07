@@ -1,0 +1,12 @@
+http://localhost:8000/person
+
+Post on postman
+
+{
+    "firstName" : "James",
+    "lastName" : "Falon"
+}
+
+
+Get http://localhost:8000/person
+
